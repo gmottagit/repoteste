@@ -16,10 +16,7 @@ deve ser verificado nem sofrer alterações.
 O programa também deverá:
 - Criar um diretório chamado logs, caso não exista;
 - Criar (ou atualizar) um arquivo log.json dentro desse diretório;
-- Registrar, a cada execução:
-- Arquivos .gitkeep criados;
-- Arquivos .gitkeep removidos;
-- Data e hora da execução.
+- Registrar, a cada execução: Arquivos .gitkeep criados; Arquivos .gitkeep removidos; Data e hora da execução.
 
   -----------------------
 Explique as diferenças entre:
