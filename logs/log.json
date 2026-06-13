@@ -1,0 +1,18 @@
+[
+    {
+        "data_hora": "13/06/2026 18:31:01",
+        "gitkeep_criados": [
+            "./.git/objects/info/.gitkeep",
+            "./.git/lfs/tmp/.gitkeep",
+            "./.git/refs/tags/.gitkeep"
+        ],
+        "gitkeep_removidos": [
+            "./monitorias/.gitkeep"
+        ]
+    },
+    {
+        "data_hora": "13/06/2026 18:31:17",
+        "gitkeep_criados": [],
+        "gitkeep_removidos": []
+    }
+]
